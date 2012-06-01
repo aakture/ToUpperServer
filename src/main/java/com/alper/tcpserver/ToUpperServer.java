@@ -11,7 +11,8 @@ import org.slf4j.LoggerFactory;
 
 /**
  * A server that reads a line of text, and returns it uppercased. Run this as a java application,
- * and then run the 
+ * and then run the the MyTCPClient to send text to this server, and get a response back. It's 
+ * easiest to run this in eclipse.
  * @author aakture
  *
  */

@@ -9,7 +9,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Simple client to test the toUpper server. 
+ * Simple client to test the toUpper server. Reads input from the command line, and returns 
+ * the upper cased response form the server. 
  * @author Alper Akture
  *
  */
